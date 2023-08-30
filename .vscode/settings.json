@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/67d3b591-3944-4a50-a5c7-d9ba6a42e838/AppServices/subscriptions/67d3b591-3944-4a50-a5c7-d9ba6a42e838/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/EmpPayrollSystem",
+  "appService.deploySubpath": "."
+}
